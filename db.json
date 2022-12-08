@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "first_name": "Macaw, blue and gold",
+      "category": "Maroon"
+    },
+    {
+      "id": 2,
+      "first_name": "Ocelot",
+      "category": "Blue"
+    },
+    {
+      "id": 3,
+      "first_name": "Genet, common",
+      "category": "Green"
+    },
+    {
+      "id": 4,
+      "first_name": "Squirrel, nelson ground",
+      "category": "Violet"
+    },
+    {
+      "id": 5,
+      "first_name": "Blackbuck",
+      "category": "Goldenrod"
+    },
+    {
+      "id": 6,
+      "first_name": "Raven, cape",
+      "category": "Red"
+    },
+    {
+      "id": 7,
+      "first_name": "Booby, masked",
+      "category": "Mauv"
+    },
+    {
+      "id": 8,
+      "first_name": "Mynah, indian",
+      "category": "Teal"
+    },
+    {
+      "id": 9,
+      "first_name": "Plover, blacksmith",
+      "category": "Pink"
+    },
+    {
+      "id": 10,
+      "first_name": "Francolin, swainson's",
+      "category": "Crimson"
+    },
+    {
+      "id": 11,
+      "first_name": "Thomson's gazelle",
+      "category": "Khaki"
+    },
+    {
+      "id": 12,
+      "first_name": "Baboon, olive",
+      "category": "Indigo"
+    },
+    {
+      "id": 13,
+      "first_name": "Porcupine, indian",
+      "category": "Maroon"
+    },
+    {
+      "id": 14,
+      "first_name": "Three-banded plover",
+      "category": "Mauv"
+    },
+    {
+      "id": 15,
+      "first_name": "Legaan, ground",
+      "category": "Puce"
+    },
+    {
+      "id": 16,
+      "first_name": "Kiskadee, great",
+      "category": "Mauv"
+    },
+    {
+      "id": 17,
+      "first_name": "Black-crowned night heron",
+      "category": "Violet"
+    },
+    {
+      "id": 18,
+      "first_name": "Lizard (unidentified)",
+      "category": "Turquoise"
+    },
+    {
+      "id": 19,
+      "first_name": "Egret, snowy",
+      "category": "Yellow"
+    },
+    {
+      "id": 20,
+      "first_name": "Spoonbill, white",
+      "category": "Khaki"
+    }
+  ]
+}
